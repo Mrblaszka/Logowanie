@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/open_info"
+        android:title="informacja o użytkowniku"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+    <item android:id="@+id/open_tabela"
+        android:title="tabela ocen"
+        android:orderInCategory="101"
+        app:showAsAction="always" />
+    <item android:id="@+id/open_logowanie"
+        android:title="logowanie"
+        android:orderInCategory="102"
+        app:showAsAction="always" />
+</menu>
